@@ -1,0 +1,2 @@
+# fastattack
+script fast attack
